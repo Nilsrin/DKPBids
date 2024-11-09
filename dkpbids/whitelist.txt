@@ -1,0 +1,22 @@
+A.Abjuration. Bd.
+A.Abjuration. Hd.
+A.Abjuration. Hn.
+A.Abjuration. Lg.
+A.Abjuration. Ft.
+D.Abjuration. Bd.
+D.Abjuration. Hd.
+D.Abjuration. Hn.
+D.Abjuration. Lg.
+D.Abjuration. Ft.
+E.Abjuration. Bd.
+E.Abjuration. Hd.
+E.Abjuration. Hn.
+E.Abjuration. Lg.
+E.Abjuration. Ft.
+N.Abjuration. Bd.
+N.Abjuration. Hd.
+N.Abjuration. Hn.
+N.Abjuration. Lg.
+N.Abjuration. Ft.
+Ridill
+Defending Ring
